@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**jhigdon/jhigdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello fellow earthling,
 
-Here are some ideas to get you started:
+I am here to write code and collaborate. Currently finding myself in a new quest to open source more of what I develop in my personal time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Fun facts (yes very fun)
+ - Not beholden to any particular programming language or framework
+ - Has both vim and emacs fu
+ - Constructed an atreus keyboard...(don't use it lol)
+ - Try my best to keep fit
+ 
+
